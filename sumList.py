@@ -2,7 +2,7 @@
 # 5/1/16
 
 def sum_list(numbers):
-	""" This program takes in numbers from a list and returns the sum """
+	""" This program takes in integers and/or floats from a list and returns the sum """
 	
 	sum = 0 
 	
